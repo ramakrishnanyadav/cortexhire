@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.sonar/
+.scannerwork/
+*.log
+outputs/
+doc/candidates.jsonl
+doc/sample_candidates.json
+mock_candidates.json
+.DS_Store

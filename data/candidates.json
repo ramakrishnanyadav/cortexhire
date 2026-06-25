@@ -1,0 +1,65 @@
+[
+  {
+    "candidate_id": "c1",
+    "name": "Alice Builder",
+    "title": "Senior ML Engineer",
+    "years_experience": 5.5,
+    "skills": ["pytorch", "tensorflow", "python", "kubernetes", "faiss"],
+    "roles": [
+      {
+        "company": "Tech Product Co",
+        "title": "Senior ML Engineer",
+        "tenure_months": 36,
+        "is_product_company": true,
+        "is_service_company": false,
+        "responsibilities": ["shipped recommendation system to production", "built end-to-end ML pipelines", "deployed models to kubernetes"]
+      }
+    ],
+    "github_score": 85,
+    "response_rate": 0.8,
+    "notice_period_days": 30,
+    "open_to_work": true
+  },
+  {
+    "candidate_id": "c2",
+    "name": "Bob Service",
+    "title": "Software Engineer",
+    "years_experience": 3.0,
+    "skills": ["java", "spring boot", "sql"],
+    "roles": [
+      {
+        "company": "Service Giant IT",
+        "title": "Software Engineer",
+        "tenure_months": 36,
+        "is_product_company": false,
+        "is_service_company": true,
+        "responsibilities": ["maintained legacy java application for clients", "resolved Jira tickets", "consulting with external stakeholders"]
+      }
+    ],
+    "github_score": 20,
+    "response_rate": 0.9,
+    "notice_period_days": 90,
+    "open_to_work": true
+  },
+  {
+    "candidate_id": "c3",
+    "name": "Charlie Hype",
+    "title": "Prompt Engineer",
+    "years_experience": 1.0,
+    "skills": ["chatgpt", "gpt-4", "langchain", "prompt engineer", "llm"],
+    "roles": [
+      {
+        "company": "AI Startup",
+        "title": "Prompt Engineer",
+        "tenure_months": 6,
+        "is_product_company": true,
+        "is_service_company": false,
+        "responsibilities": ["experimented with chatgpt prompts"]
+      }
+    ],
+    "github_score": 5,
+    "response_rate": 0.5,
+    "notice_period_days": 15,
+    "open_to_work": true
+  }
+]

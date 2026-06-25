@@ -1,0 +1,94 @@
+[
+  {
+    "candidate_id": "c1_optimizer",
+    "name": "Resume Optimizer",
+    "title": "Senior ML Engineer",
+    "years_experience": 0.5,
+    "skills": ["pytorch", "tensorflow", "transformers", "fine-tuning", "rlhf", "langchain", "vector db", "faiss", "milvus", "pinecone", "rag", "llm", "embedding", "mlflow", "kubeflow", "triton", "cuda", "onnx", "bert", "gpt"],
+    "roles": [
+      {
+        "company": "Consulting XYZ",
+        "title": "Software Engineer",
+        "tenure_months": 6,
+        "is_product_company": false,
+        "is_service_company": true,
+        "responsibilities": ["built", "shipped", "deployed", "scaled", "production", "latency", "models"]
+      }
+    ],
+    "github_score": 10.0,
+    "response_rate": 0.9,
+    "notice_period_days": 30,
+    "open_to_work": true
+  },
+  {
+    "candidate_id": "c2_pivot",
+    "name": "Career Pivot",
+    "title": "ML Engineer",
+    "years_experience": 6.5,
+    "skills": ["python", "pytorch", "marketing analytics", "docker"],
+    "roles": [
+      {
+        "company": "AdTech",
+        "title": "Marketing Manager",
+        "tenure_months": 60,
+        "is_product_company": true,
+        "is_service_company": false,
+        "responsibilities": ["managed campaigns"]
+      },
+      {
+        "company": "AI Startup",
+        "title": "Data Scientist",
+        "tenure_months": 18,
+        "is_product_company": true,
+        "is_service_company": false,
+        "responsibilities": ["built and shipped pytorch models for recommendation"]
+      }
+    ],
+    "github_score": 95.0,
+    "response_rate": 0.95,
+    "notice_period_days": 15,
+    "open_to_work": true
+  },
+  {
+    "candidate_id": "c3_ideal",
+    "name": "The Ideal Hire",
+    "title": "Staff ML Engineer",
+    "years_experience": 7.0,
+    "skills": ["pytorch", "kubernetes", "distributed systems", "cuda"],
+    "roles": [
+      {
+        "company": "Big Tech",
+        "title": "Senior ML Engineer",
+        "tenure_months": 48,
+        "is_product_company": true,
+        "is_service_company": false,
+        "responsibilities": ["architected and deployed pytorch recommendation models to production", "served 10m users at 50ms latency with 99.9% uptime"]
+      }
+    ],
+    "github_score": 85.0,
+    "response_rate": 0.9,
+    "notice_period_days": 30,
+    "open_to_work": true
+  },
+  {
+    "candidate_id": "c4_sparse",
+    "name": "The Sparse Profile",
+    "title": "Senior Engineer",
+    "years_experience": 5.0,
+    "skills": ["machine learning", "python", "backend"],
+    "roles": [
+      {
+        "company": "Secret Startup",
+        "title": "Lead Engineer",
+        "tenure_months": 36,
+        "is_product_company": true,
+        "is_service_company": false,
+        "responsibilities": ["built backend systems and ML pipelines"]
+      }
+    ],
+    "github_score": null,
+    "response_rate": null,
+    "notice_period_days": null,
+    "open_to_work": false
+  }
+]

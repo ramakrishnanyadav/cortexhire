@@ -1,0 +1,41 @@
+2026-06-25 21:32:20,448 [cortexhire.final_run] ==================================================
+2026-06-25 21:32:20,449 [cortexhire.final_run] FINAL EVALUATION METRICS
+2026-06-25 21:32:20,449 [cortexhire.final_run] ==================================================
+2026-06-25 21:32:20,449 [cortexhire.final_run] Total Time: 67.54 seconds
+2026-06-25 21:32:20,449 [cortexhire.final_run] Peak Memory: 1619.52 MB
+2026-06-25 21:32:20,449 [cortexhire.final_run] Candidates Processed: 100000
+2026-06-25 21:32:20,449 [cortexhire.final_run] Average Trust: 98.64
+2026-06-25 21:32:20,449 [cortexhire.final_run] Average Confidence: 46.16
+2026-06-25 21:32:20,449 [cortexhire.final_run] Trust Distribution:
+2026-06-25 21:32:20,449 [cortexhire.final_run]   90-100: 93416
+2026-06-25 21:32:20,449 [cortexhire.final_run]   80-89: 6584
+2026-06-25 21:32:20,449 [cortexhire.final_run]   70-79: 0
+2026-06-25 21:32:20,449 [cortexhire.final_run]   60-69: 0
+2026-06-25 21:32:20,449 [cortexhire.final_run]   0-59: 0
+2026-06-25 21:32:20,449 [cortexhire.final_run] Confidence Distribution:
+2026-06-25 21:32:20,449 [cortexhire.final_run]   80-100: 0
+2026-06-25 21:32:20,449 [cortexhire.final_run]   60-79: 0
+2026-06-25 21:32:20,449 [cortexhire.final_run]   40-59: 98550
+2026-06-25 21:32:20,449 [cortexhire.final_run]   0-39: 1450
+2026-06-25 21:32:20,449 [cortexhire.final_run] 
+TOP 20 CANDIDATES:
+2026-06-25 21:32:20,449 [cortexhire.final_run] #1 Sai Verma | Score: 78.22 | Conf: 50.00 | Trust: 100.00
+2026-06-25 21:32:20,449 [cortexhire.final_run] #2 Ananya Arora | Score: 77.49 | Conf: 50.00 | Trust: 100.00
+2026-06-25 21:32:20,449 [cortexhire.final_run] #3 Aarohi Trivedi | Score: 75.85 | Conf: 50.00 | Trust: 100.00
+2026-06-25 21:32:20,449 [cortexhire.final_run] #4 Aryan Chopra | Score: 76.15 | Conf: 35.00 | Trust: 100.00
+2026-06-25 21:32:20,449 [cortexhire.final_run] #5 Kavya Mehta | Score: 75.67 | Conf: 50.00 | Trust: 100.00
+2026-06-25 21:32:20,449 [cortexhire.final_run] #6 Anil Mishra | Score: 75.72 | Conf: 40.00 | Trust: 100.00
+2026-06-25 21:32:20,449 [cortexhire.final_run] #7 Aarohi Naidu | Score: 75.66 | Conf: 40.00 | Trust: 100.00
+2026-06-25 21:32:20,449 [cortexhire.final_run] #8 Aadhya Iyer | Score: 75.48 | Conf: 45.00 | Trust: 100.00
+2026-06-25 21:32:20,449 [cortexhire.final_run] #9 Kiara Mittal | Score: 75.03 | Conf: 45.00 | Trust: 100.00
+2026-06-25 21:32:20,449 [cortexhire.final_run] #10 Anil Sen | Score: 75.02 | Conf: 40.00 | Trust: 100.00
+2026-06-25 21:32:20,449 [cortexhire.final_run] #11 Krishna Mittal | Score: 75.02 | Conf: 40.00 | Trust: 100.00
+2026-06-25 21:32:20,449 [cortexhire.final_run] #12 Ela Banerjee | Score: 74.99 | Conf: 40.00 | Trust: 100.00
+2026-06-25 21:32:20,449 [cortexhire.final_run] #13 Aryan Goyal | Score: 74.99 | Conf: 40.00 | Trust: 100.00
+2026-06-25 21:32:20,449 [cortexhire.final_run] #14 Aisha Malhotra | Score: 74.98 | Conf: 40.00 | Trust: 100.00
+2026-06-25 21:32:20,449 [cortexhire.final_run] #15 Vihaan Subramanian | Score: 74.42 | Conf: 50.00 | Trust: 100.00
+2026-06-25 21:32:20,449 [cortexhire.final_run] #16 Tanvi Iyer | Score: 74.41 | Conf: 50.00 | Trust: 100.00
+2026-06-25 21:32:20,449 [cortexhire.final_run] #17 Ishaan Krishnan | Score: 74.35 | Conf: 50.00 | Trust: 100.00
+2026-06-25 21:32:20,449 [cortexhire.final_run] #18 Tanya Krishnan | Score: 74.33 | Conf: 50.00 | Trust: 100.00
+2026-06-25 21:32:20,449 [cortexhire.final_run] #19 Ira Ghosh | Score: 74.32 | Conf: 50.00 | Trust: 100.00
+2026-06-25 21:32:20,449 [cortexhire.final_run] #20 Divya Iyengar | Score: 74.31 | Conf: 50.00 | Trust: 100.00

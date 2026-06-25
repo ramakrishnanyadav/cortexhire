@@ -1,0 +1,6 @@
+pydantic>=2.0.0
+pandas>=2.0.0
+xlsxwriter>=3.1.0
+# Optional Semantic Retrieval Dependencies:
+# sentence-transformers>=2.2.2
+# faiss-cpu>=1.7.4
